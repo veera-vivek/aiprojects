@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+xgboost
+yfinance
+matplotlib
+ta
+vaderSentiment
+cvxpy
+joblib
+tabulate
+streamlit
